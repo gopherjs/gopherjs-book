@@ -1,2 +1,2 @@
-* [Getting Started](chapter1/README.md)
-	* [Prerequisites](chapter1/section1.md)
+* [Getting Started](GettingStarted/README.md)
+	* [Prerequisites](GettingStarted/Prerequisites.md)
