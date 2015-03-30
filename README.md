@@ -2,7 +2,7 @@
 
 _Build client side apps with the language you already trust on the backend._
 
-GopherJS compiles [Go code](golang.org) to pure JavaScript code. Its main purpose is to give you the opportunity to write front-end code in Go which will still run in all browsers.
+GopherJS compiles [Go code](http://golang.org) to pure JavaScript code. Its main purpose is to give you the opportunity to write front-end code in Go which will still run in all browsers.
 
 ## Development
 
